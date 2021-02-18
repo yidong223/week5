@@ -7,6 +7,11 @@ header {
     background-color: #ffcc5c;
 }
 
+h1 {
+    color:#e0472c;
+    font-family: 'Montserrat', sans-serif;
+}
+
 h2 {
     color:#ffcc5c;
     text-align: center;
